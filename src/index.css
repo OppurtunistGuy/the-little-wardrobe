@@ -1,0 +1,3 @@
+/* Design tokens and base styles for The Little Wardrobe */
+@import './styles/variables.css';
+@import './styles/base.css';
